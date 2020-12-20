@@ -10,6 +10,8 @@
 }
 
 .mainPart {
+  font-size: 2rem;
+  border: 5px dashed yellow;
   background-color: rgb(39, 80, 0);
 }
 
