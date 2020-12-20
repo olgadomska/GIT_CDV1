@@ -6,15 +6,14 @@
 .introdution{
     font-size: 3rem;
     font-weight: bold;
-    background-color: red;
+    background-color: grey
 }
 
 .mainPart{
-    background-color: green;
+    background-color: lightgray
 }
-
 .ending{
     padding-top: 50px;
     font-size: 1.5rem;
-    background-color: brown;
+    background-color: darkgrey;
 }
