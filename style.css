@@ -4,7 +4,7 @@
 }
 
 .introdution {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: bold;
   background-color: grey;
 }
@@ -12,6 +12,7 @@
 .mainPart {
   background-color: lightgray;
 }
+
 .ending {
   padding-top: 50px;
   font-size: 1.5rem;
