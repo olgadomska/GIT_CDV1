@@ -1,19 +1,26 @@
+body {
+font-family: Arial;
+}
+
 .container {
-  background-color: black;
+  background-color: rgb(36, 34, 34);
   border: 5px solid blue;
 }
 
 .introdution {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: bold;
-  background-color: grey;
+  background-color: rgb(115, 221, 28);
 }
 
 .mainPart {
-  background-color: lightgray;
+  font-size: 2rem;
+  border: 5px dashed yellow;
+  background-color: rgb(39, 80, 0);
 }
+
 .ending {
   padding-top: 50px;
   font-size: 1.5rem;
-  background-color: darkgrey;
+  background-color: rgb(13, 163, 13);
 }
