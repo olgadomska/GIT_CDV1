@@ -1,19 +1,19 @@
 .container {
-    background-color: yellow;
-    border: 5px solid blue;
+  background-color: black;
+  border: 5px solid blue;
 }
 
-.introdution{
-    font-size: 3rem;
-    font-weight: bold;
-    background-color: grey
+.introdution {
+  font-size: 3rem;
+  font-weight: bold;
+  background-color: grey;
 }
 
-.mainPart{
-    background-color: lightgray
+.mainPart {
+  background-color: lightgray;
 }
-.ending{
-    padding-top: 50px;
-    font-size: 1.5rem;
-    background-color: darkgrey;
+.ending {
+  padding-top: 50px;
+  font-size: 1.5rem;
+  background-color: darkgrey;
 }
