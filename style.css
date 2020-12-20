@@ -11,6 +11,8 @@
 
 .mainPart {
   background-color: lightgray;
+  font-size: 2rem;
+  border: 5px dashed yellow;
 }
 .ending {
   padding-top: 50px;
